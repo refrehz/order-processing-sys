@@ -13,5 +13,5 @@ The project includes two shell script files. One is for running application on d
 ## improvements
 It could be more complex and could be include more functionalities than current ones. I also had in mind to use logging too, but I didn't(at least for this project).
 
-## Running
+## running app
 Your local device should have Docker and Python installed. You can simply run project by running run.sh script. It will install everything inside docker container and application will run inside of it
