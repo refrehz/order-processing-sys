@@ -1,5 +1,4 @@
-# order-processing-sys
-Order Processing System built with FastAPI, SQLite, and Docker. I built database on SQLite because of I wanted to improve myself on SQL queries.
+# Order Processing Microservice Application
 
 ## src/
 "src/" folder includes source codes for microservice application. API backend for all endpoints, database config file, and __main__.py script which contains essential codebase to run application.
